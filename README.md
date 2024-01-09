@@ -12,5 +12,3 @@ I'm a recent Computer Science graduate with interest in Software Engineering and
 
 💡 **I'm Currently...**
 - Actively seeking opportunities in the field of Software Engineering and Cybersecurity.
-
-[![LinkedIn](linkedin-icon-link)](https://www.linkedin.com/in/patoledavid/)
